@@ -1,0 +1,20 @@
+h2 {
+  font-size: 16px;
+  margin-top: 50px;
+  margin-left: 20px;
+}
+
+#movie-container {
+  width: 100%;
+  display: flex;
+  margin: 10px;
+}
+
+.container-img img {
+  width: 250px;
+  margin: 5px;
+}
+img:hover{
+    cursor:pointer;
+
+}

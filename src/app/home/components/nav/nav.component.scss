@@ -1,0 +1,28 @@
+.navegacion{
+    width: 100%;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    background-color: black;
+    margin: 20px;
+
+    img{
+        height: 50px;
+       
+    }
+    ul, li{
+        list-style: none;
+
+    }
+    a{
+        text-decoration: none;
+    }
+
+    a:hover{
+        cursor:pointer;
+        color:rgb(145, 3, 3);
+        font-style: oblique;
+        
+
+    }
+}
